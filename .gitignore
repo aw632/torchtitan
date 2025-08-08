@@ -21,6 +21,9 @@ assets/**/*.json
 assets/**/*.txt
 torchtitan/experiments/flux/assets/*
 
+# weights
+weights/
+
 # temp files
 *.log
 error.json
